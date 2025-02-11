@@ -16,23 +16,20 @@ Hi! I'm **Srujana S**, a Data Scientist with over **3 years of experience** in *
 - **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning, NLP  
 - **Big Data & Cloud:** AWS, Azure, Snowflake, Spark, Hadoop  
 - **Visualization & BI:** Tableau, Power BI, Matplotlib, Seaborn  
-- **MLOps & Automation:** Docker, CI/CD Pipelines, Model Deployment  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 **[Predictive Analytics for Business Growth](https://github.com/yourrepo/predictive-analytics)** – Developed a customer churn prediction model that improved retention rates by **25%**.  
+🔹 **[Predictive Analytics for Business Growth]** – Developed a customer churn prediction model that improved retention rates by **25%**.  
 
-🔹 **[NLP-Based Text Analytics](https://github.com/yourrepo/nlp-text-analysis)** – Built a Named Entity Recognition (NER) model using **BERT & LLMs** to extract insights from large text data.  
+🔹 **[NLP-Based Text Analytics]()** – Built a Named Entity Recognition (NER) model using **BERT & LLMs** to extract insights from large text data.  
 
-🔹 **[Real-Time Anomaly Detection](https://github.com/yourrepo/anomaly-detection)** – Created a real-time fraud detection system using **Kafka & Spark Streaming**, reducing fraud cases by **40%**.  
+🔹 **[Real-Time Anomaly Detection]** – Created a real-time fraud detection system using **Kafka & Spark Streaming**, reducing fraud cases by **40%**.  
 
 ---
 
 ## 🎓 Certifications  
-📌 **Google Cloud Professional Data Engineer** *(In Progress)*  
-📌 **Azure Machine Learning Certification** *(Microsoft)*  
 📌 **Generative AI Certificate – LTIMindtree**  
 
 ---
