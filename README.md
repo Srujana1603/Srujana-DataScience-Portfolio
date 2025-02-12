@@ -1,6 +1,6 @@
 # 🌟 Srujana S – Data Scientist Portfolio  
 
-🚀 **Senior Data Scientist | AI & Machine Learning Enthusiast | Cloud & Big Data Expert**  
+🚀 **Data Scientist | AI & Machine Learning Enthusiast | Cloud & Big Data Expert**  
 
 ## 📝 About Me  
 Hi! I'm **Srujana S**, a Data Scientist with over **3 years of experience** in **Machine Learning, Predictive Analytics, NLP, and Cloud Technologies**. I love building data-driven solutions that optimize business performance and improve decision-making.  
